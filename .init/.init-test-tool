@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/billboard-to-do-list-194833-194842/billboard_frontend"
+}
